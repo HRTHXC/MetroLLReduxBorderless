@@ -1,0 +1,24 @@
+This little mod (can you call it that?), creates a faux Borderless Windowed
+mode for Metro LL Redux, but could be modified easily for other troublesome
+applications that have trouble with tabbing out of the application.
+
+For those running with the taskbar at the top like me, this is great.
+
+Inside are the following:
+metroborderless.exe
+windowMode.exe
+
+Installation:
+Place these files in the root game directory of Metro Last Light Redux
+Point Steam to run "metroborderless.exe" instead of "metro.exe" (no quotation)
+When run, once the window shows the application bar, it has finished running.
+
+Notes:
+Steam helps with it's game overlay in terms of pressing Shift+TAB to then regain mouse control.
+
+Sample run:
+https://gyazo.com/3ce8f4339e3cd0785ff219b7a6d52594
+
+Credit:
+github/npocmaka for windowMode.bat script
+https://github.com/npocmaka/batch.scripts/blob/master/hybrids/.net/c/windowMode.bat
